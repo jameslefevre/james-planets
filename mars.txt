@@ -2,3 +2,6 @@ As you know, belinda thought the The Martian was a top night out.
 He did something.
 More lines, no purpose in themselves.
 Just grist for the git mill.
+
+Science was apparently the hero, but no one really plugs a laptop into a supercomputer. Conme to Hacky Hour 
+and learn how it is done.
