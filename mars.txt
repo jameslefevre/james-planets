@@ -6,4 +6,4 @@ Just grist for the git mill.
 Science was apparently the hero, but no one really plugs a laptop into a supercomputer. Conme to Hacky Hour 
 and learn how it is done.
 
-This is the change, the change that James made.
+Finally I come to the new world and making changes
